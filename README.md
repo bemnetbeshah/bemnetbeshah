@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bemnet Beshah</h1>
 
 <h3 align="center">
-Mathematics major at Texas State University building backend systems, AI applications, and developer infrastructure.
+Mathematics and Computer Science major at Texas State University, building backend systems, AI applications, and developer infrastructure.
 </h3>
 
 <p align="left">
