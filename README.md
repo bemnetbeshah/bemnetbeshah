@@ -1,3 +1,42 @@
+<h1 align="center">Hi 👋, I'm Bemnet Beshah</h1>
+
+<h3 align="center">
+Mathematics major at Texas State University building backend systems, AI applications, and developer infrastructure.
+</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bemnetbeshah&label=Profile%20views&color=0e75b6&style=flat" alt="bemnetbeshah" />
+</p>
+
+- 🚀 I build end-to-end software systems—from discovery and architecture to deployment and iteration.
+
+- 🏗️ My interests include **Backend Engineering, AI Systems, Agentic Workflows, Distributed Systems, APIs, and Developer Infrastructure.**
+
+- 💼 I've worked directly with clients to translate business problems into software solutions, combining technical execution with product thinking.
+
+- 🤖 I'm currently building **AI-powered business tools, multi-agent systems, and backend infrastructure.**
+
+- 📚 I'm currently exploring **Large Language Models, Agent Frameworks, System Design, and Scalable Backend Architecture.**
+
+- 🤝 I'm always interested in collaborating on **AI infrastructure, backend systems, developer tools, and ambitious software projects.**
+
+- 📫 Reach me at **bemnetbeshah@gmail.com**
+
+- 🌐 Portfolio **Coming soon on renvane.com**
+
+- 💪 Outside of software, you'll usually find me **lifting weights or studying mathematics.**
+
+<h3 align="left">Connect with me</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/bemnetbeshah" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/_bemnetamare/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
 <h3 align="left">Languages & Technologies</h3>
 
 <p align="left">
