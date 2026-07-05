@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bemnet Beshah</h1>
+<h1 align="center">Hi, I'm Bemnet Beshah</h1>
 
 <h3 align="center">
 Mathematics and Computer Science major. Building end-to-end AI applications and workflows that real businesses use. Builder by day and entrepreneur by night.
@@ -8,23 +8,23 @@ Mathematics and Computer Science major. Building end-to-end AI applications and 
   <img src="https://komarev.com/ghpvc/?username=bemnetbeshah&label=Profile%20views&color=0e75b6&style=flat" alt="bemnetbeshah" />
 </p>
 
-- 🚀 I build end-to-end software systems—from discovery and architecture to deployment and iteration.
+- I build end-to-end software systems—from discovery and architecture to deployment and iteration.
 
-- 🏗️ I am excited by problems that focus on **AI systems, understanding the full AI stack—from models to infrastructure—cloud computing, distributed systems, backend engineering, developer tools, and technology entrepreneurship.**
+- I am excited by problems that focus on **AI systems, understanding the full AI stack—from models to infrastructure—cloud computing, distributed systems, backend engineering, developer tools, and technology entrepreneurship.**
 
-- 💼 I've worked directly with clients to translate business problems into software solutions, combining technical execution with product thinking.
+- I've worked directly with clients to translate business problems into software solutions, combining technical execution with product thinking.
 
-- 🤖 I'm currently building **AI-powered business tools, RAG and multi-agent systems, and backend infrastructure for those tools.**
+- I'm currently building **AI-powered business tools, RAG and multi-agent systems, and backend infrastructure for those tools.**
 
-- 📚 I'm currently exploring **Cloud Computing, Distributed Systems, AI Infrastructure, and Advanced Agentic Systems.**
+- I'm currently exploring **Cloud Computing, Distributed Systems, AI Infrastructure, and Advanced Agentic Systems.**
 
-- 🤝 I'm always interested in collaborating on **AI infrastructure, backend systems, developer tools, and ambitious software projects.**
+- I'm always interested in collaborating on **AI infrastructure, backend systems, developer tools, and ambitious software projects.**
 
-- 📫 Reach me at **bemnetbeshah@gmail.com**
+- Reach me at **bemnetbeshah@gmail.com**
 
-- 🌐 Portfolio **Coming soon on renvane.com**
+- Portfolio **Coming soon on renvane.com**
 
-- 💪 Outside of software, you'll usually find me **lifting weights or studying mathematics.**
+- Outside of software, you'll usually find me **lifting weights or studying mathematics.**
 
 <h3 align="left">Connect with me</h3>
 
