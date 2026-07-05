@@ -22,7 +22,7 @@ mathematics and computer science major. building end-to-end ai applications and 
 
 - reach me at **bemnetbeshah@gmail.com**
 
-- portfolio **coming soon on renvane.com**
+- portfolio [renvane.com](https://renvane.com)
 
 - outside of software, you'll usually find me **lifting weights or studying mathematics.**
 
