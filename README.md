@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm bemnet beshah</h1>
 
 <h3 align="center">
-mathematics and computer science major. building end-to-end ai applications and workflows that real businesses use. builder by day and entrepreneur by night.
+mathematics and computer science major, physics minor. building end-to-end ai applications and workflows that real businesses use. doing computer vision research.  
 </h3>
 
 <p align="left">
